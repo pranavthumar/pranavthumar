@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pranavthumar
-- 👀 I’m interested in coding, reading books, yoga
 - 🌱 I’m currently learning web developement, data science, Dsa
 - 📫 How to reach me:- mail me at pranavthumar01mar@gmail.com
 
