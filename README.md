@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranavthumar
-- 🌱 I’m currently learning web developement, data science, Dsa
+- 🌱 I’m currently learning web developement, MySQL, Python, Dsa
 - 📫 How to reach me:- mail me at pranavthumar01mar@gmail.com
 
 <!---
